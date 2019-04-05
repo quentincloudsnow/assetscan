@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>ItemParameterAttachment</name>
+        <parent>0a03d86fdbbb2b401819db184b961970</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-01 02:55:39</sys_created_on>
+        <sys_id>2f63d0afdbbb2b401819db184b96192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ItemParameterAttachment</sys_name>
+        <sys_package display_value="Scan Assets" source="x_snc_scan_assets">1fe91917db776740ba152efd0b961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scan Assets">1fe91917db776740ba152efd0b961975</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_2f63d0afdbbb2b401819db184b96192c</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-01 02:55:39</sys_updated_on>
+        <type>attachment</type>
+    </sys_sg_item_parameter>
+</record_update>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg_content">
+    <sys_push_notif_msg_content action="INSERT_OR_UPDATE">
+        <name>Laptop give to end user</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <script><![CDATA[(function buildJSON(/*GlideRecord*/ current, /*String*/ message, /*Object*/ attributes) {
+    
+    var json = {};
+    
+    json = {
+        "aps" : {
+            "sound" : "default"
+        },
+        "Redirection" : {
+            "Title" : "Work Order Task Acceptance Push Notification",
+            "To" : "Embedded",
+            "Destination": {
+                "DocumentId": "41b5b39bdb3b2b401819db184b9619b8",
+                "ItemId": current.sys_id
+            }
+        },
+        "Layout" : {
+            "Identifier" : current.number,
+            "Description" : current.short_description,
+            "AdditionalInfo" : current.location.getDisplayValue(),
+            "StatusImage": current.priority_image + ".iix?t=small"
+        }
+    };
+    
+    return json;
+})(current, message, attributes);]]></script>
+        <sys_class_name>sys_push_notif_msg_content</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-01 13:32:08</sys_created_on>
+        <sys_id>9954e627dbb76b401819db184b96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop give to end user</sys_name>
+        <sys_package display_value="Scan Assets" source="x_snc_scan_assets">1fe91917db776740ba152efd0b961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scan Assets">1fe91917db776740ba152efd0b961975</sys_scope>
+        <sys_update_name>sys_push_notif_msg_content_9954e627dbb76b401819db184b96191e</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-01 13:32:08</sys_updated_on>
+    </sys_push_notif_msg_content>
+</record_update>

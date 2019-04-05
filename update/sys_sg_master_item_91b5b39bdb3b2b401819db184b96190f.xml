@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="Find Laptop item view">98b5739bdb3b2b401819db184b9619fe</item_view>
+        <name>Master Item</name>
+        <screen display_value="Find Laptop">41b5b39bdb3b2b401819db184b9619b8</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-01 00:45:22</sys_created_on>
+        <sys_id>91b5b39bdb3b2b401819db184b96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="Scan Assets" source="x_snc_scan_assets">1fe91917db776740ba152efd0b961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scan Assets">1fe91917db776740ba152efd0b961975</sys_scope>
+        <sys_update_name>sys_sg_master_item_91b5b39bdb3b2b401819db184b96190f</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-01 00:45:22</sys_updated_on>
+        <table>alm_asset</table>
+    </sys_sg_master_item>
+</record_update>

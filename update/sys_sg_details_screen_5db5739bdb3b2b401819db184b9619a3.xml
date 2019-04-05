@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Lookup asset by tag">7a9add5bdb776740ba152efd0b961925</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">1cb5739bdb3b2b401819db184b9619f5</icon>
+        <item_view display_value="Find Laptop detail item view">d0b5739bdb3b2b401819db184b9619a0</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>91b5b39bdb3b2b401819db184b96190f</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-01 00:45:22</sys_created_on>
+        <sys_id>5db5739bdb3b2b401819db184b9619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Scan Assets" source="x_snc_scan_assets">1fe91917db776740ba152efd0b961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scan Assets">1fe91917db776740ba152efd0b961975</sys_scope>
+        <sys_update_name>sys_sg_details_screen_5db5739bdb3b2b401819db184b9619a3</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-01 00:45:22</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

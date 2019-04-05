@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>return reason</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_scan_assets_return_reason</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-02 13:17:03</sys_created_on>
+        <sys_id>792baff7dbfb63001819db184b9619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>return reason</sys_name>
+        <sys_package display_value="Scan Assets" source="x_snc_scan_assets">1fe91917db776740ba152efd0b961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scan Assets">1fe91917db776740ba152efd0b961975</sys_scope>
+        <sys_update_name>sys_db_object_792baff7dbfb63001819db184b9619f5</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-02 13:17:03</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_snc_scan_assets.return_reason_user" name="x_snc_scan_assets.return_reason_user">555ba33bdbfb63001819db184b96195a</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

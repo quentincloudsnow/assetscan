@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Return">c5296377dbfb63001819db184b961900</button>
+        <item_parameter display_value="comment">43986337dbfb63001819db184b9619e1</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-02 13:33:12</sys_created_on>
+        <sys_id>affe23bfdbfb63001819db184b9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>43986337dbfb63001819db184b9619e1</sys_name>
+        <sys_package display_value="Scan Assets" source="x_snc_scan_assets">1fe91917db776740ba152efd0b961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scan Assets">1fe91917db776740ba152efd0b961975</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_affe23bfdbfb63001819db184b9619af</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-02 13:33:12</sys_updated_on>
+        <ui_parameter display_value="Return reason">bc8ca3bbdbfb63001819db184b96190d</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

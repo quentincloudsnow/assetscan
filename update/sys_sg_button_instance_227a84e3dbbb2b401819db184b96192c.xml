@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Assign">f3e78823dbbb2b401819db184b961928</button>
+        <description/>
+        <field_name/>
+        <label>Assign</label>
+        <location>trailing_swipe</location>
+        <name>Assign</name>
+        <order>1</order>
+        <parent>91b5b39bdb3b2b401819db184b96190f</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-01 02:16:07</sys_created_on>
+        <sys_id>227a84e3dbbb2b401819db184b96192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assign</sys_name>
+        <sys_package display_value="Scan Assets" source="x_snc_scan_assets">1fe91917db776740ba152efd0b961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scan Assets">1fe91917db776740ba152efd0b961975</sys_scope>
+        <sys_update_name>sys_sg_button_instance_227a84e3dbbb2b401819db184b96192c</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-01 02:16:07</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>
