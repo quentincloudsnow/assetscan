@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>quentin.carton</sys_created_by>
         <sys_created_on>2019-03-02 13:17:05</sys_created_on>
-        <sys_id>a65be33bdbfb63001819db184b96194a</sys_id>
+        <sys_id>7a8d1c83dba033401819db184b9619a9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_scan_assets_return_reason</sys_name>
         <sys_package display_value="Scan Assets" source="x_snc_scan_assets">1fe91917db776740ba152efd0b961975</sys_package>
         <sys_policy/>
         <sys_scope display_value="Scan Assets">1fe91917db776740ba152efd0b961975</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_scan_assets_return_reason_null</sys_update_name>
-        <sys_updated_by>quentin.carton</sys_updated_by>
-        <sys_updated_on>2019-03-02 13:17:05</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_scan_assets_return_reason_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-04-05 21:09:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
